@@ -1,0 +1,16 @@
+{
+  "name": "space-machine",
+  "description": "Split a string by spaces. Use .spawn like an .exec!",
+  "homepage": "https://github.com/bevacqua/space-machine",
+  "author": {
+    "name": "Nicolas Bevacqua",
+    "email": "ng@bevacqua.io",
+    "url": "http://bevacqua.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bevacqua/space-machine.git"
+  },
+  "version": "0.1.0",
+  "licenses": "MIT"
+}
